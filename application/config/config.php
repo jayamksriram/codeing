@@ -12,6 +12,7 @@
 |
 | If this is not set then CodeIgniter will guess the protocol, domain and
 | path to your installation.
+| this is master branch.
 |
 */
 $config['base_url']	= '';
@@ -24,6 +25,7 @@ $config['base_url']	= '';
 | Typically this will be your index.php file, unless you've renamed it to
 | something else. If you are using mod_rewrite to remove the page set this
 | variable so that it is blank.
+|this is master branch 
 |
 */
 $config['index_page'] = 'index.php';
